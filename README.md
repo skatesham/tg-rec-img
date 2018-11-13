@@ -9,9 +9,28 @@ Esse SGBD é tipo NoSql e é orientado a documentos
 ## Servidor apache-tomcat-8.5.20/
 Para a execução necessita compilar um .war e disponibilizar no pasta webapp do servidor Apache Tomcat
 
+Para executar o Apache Tomcat (em Dist Linux), execute o script dessa forma (aonde "DIR_TOMCAT" é diretório aonde encontra-se instalado o Apache Tomcat):
+```
+./DIR_TOMCAT/apache-tomcat-8.5.20/bin/startup.sh
+```
+Para abrir página com o servidor (após o Tomcat e MongoDB configurado e executando), execute o comando (Linux Dist):
+```
+firefox -new-tab -url http://localhost:8080/recimg/
+```
+
 ### Modelo de Banco de Dados utilizado
 
 ![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/Screenshot%20from%202018-11-13%2001-04-05.png)
+
+As coleções padrões podem ser restauradas pelo comando:
+```
+mongorestore -d <database_name> <directory_backup>
+
+mongorestore -d recimg mongodb/recimg
+```
+
+[Collections](https://github.com/skatesham/tg-rec-img/tree/master/mongodb/recimg)
+
 
 ## Diagramas de Classes do Sistema
 
@@ -29,7 +48,7 @@ Para a execução necessita compilar um .war e disponibilizar no pasta webapp do
 
 ## Exemplo de Modelo de Imagens para Reconhecimento
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/Invese%20bin%20placas%20patrimonio.png)
 
 ## Gŕafico de Análise de resultado de reconhecimento
 Esse gráfico mostra os valores dos resultado  de correlação encontrados nos valores possíveis de encaixe das imagens acima.
