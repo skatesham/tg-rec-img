@@ -1,5 +1,6 @@
 # recimg
-Sistema de Reconhecimento de Padrão em Imagem
+Sistema Web de Reconhecimento de Padrão em Imagem utilizando algoritmo de correlação
+Esse sistema foi desenvolvido para reconhecer qualquer padrão com o algoritmo, e foi testado com a aplicação real de reconhecimeno de placas de patrimônio da FATEC-SJC.
 
 Esse servidor desenvolvido da forma mais clássica possui um algoritmo de reconhecimento de padrões em imagens com representação por região e utiliza de correlação para realizar o reconhecimento.
 
