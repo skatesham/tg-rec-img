@@ -18,19 +18,19 @@ Para a execução necessita compilar um .war e disponibilizar no pasta webapp do
  ## Imagens do Sistema
 
 
-#### Login
+### Login
 ![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/login.png)
 
-#### Galeria
+### Galeria
 ![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/galeria.png)
 
-#### Informações
+### Informações
 ![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/info.png)
 
-#### Reconhecimento unico padrão
+### Reconhecimento unico padrão
 ![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/rec-pad.png)
 
-#### Reconhecimento Sequencia de padrões
+### Reconhecimento Sequencia de padrões
 ![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/red-seq-pad.png)
 
 ### Desenvolvido por Sham Vinicius Fiorin
