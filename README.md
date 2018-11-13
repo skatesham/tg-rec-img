@@ -3,6 +3,9 @@ Sistema de Reconhecimento de Padrão em Imagem
 
 Esse servidor desenvolvido da forma mais clássica possui um algoritmo de reconhecimento de padrões em imagens com representação por região e utiliza de correlação para realizar o reconhecimento.
 
+## O Sistema de gerenciamento de banco de dados utilizado é o MongoDB
+Esse SGBD é tipo NoSql e é orientado a documentos
+
 ## Servidor apache-tomcat-8.5.20/
 Para a execução necessita compilar um .war e disponibilizar no pasta webapp do servidor Apache Tomcat
 
