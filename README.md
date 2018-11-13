@@ -9,6 +9,33 @@ Esse SGBD é tipo NoSql e é orientado a documentos
 ## Servidor apache-tomcat-8.5.20/
 Para a execução necessita compilar um .war e disponibilizar no pasta webapp do servidor Apache Tomcat
 
+### Modelo de Banco de Dados utilizado
+
+![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/Screenshot%20from%202018-11-13%2001-04-05.png)
+
+## Diagramas de Classes do Sistema
+
+### Classes Modelos do Sistema
+
+![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/CLASSES%20MODELO.png)
+
+### Classes de Reconhecimento
+
+![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/Diagrama%20Classes%20Algoritmo.png)
+
+### Classes de Acesso aos dados
+
+![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/Diagramas%20de%20Classes%20DAO.png)
+
+## Exemplo de Modelo de Imagens para Reconhecimento
+
+![alt text]()
+
+## Gŕafico de Análise de resultado de reconhecimento
+Esse gráfico mostra os valores dos resultado  de correlação encontrados nos valores possíveis de encaixe das imagens acima.
+
+![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/REAL%20Grafico%20Delta%20X.png)
+
 ## Dependencias
 
   1. /lib/commons-math3-3.6.1.jar

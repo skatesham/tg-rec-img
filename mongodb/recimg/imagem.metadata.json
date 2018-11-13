@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"recimg.imagem"},{"v":2,"unique":true,"key":{"imagem_id":1.0,"usuario_id":1.0},"name":"imagem_id_1_usuario_id_1","ns":"recimg.imagem"},{"v":2,"key":{"usuario_id":1},"name":"usuario_id_1","ns":"recimg.imagem"}],"uuid":"40f52fc6a66b4ed2ba3c71ddf2c4b6a7"}
