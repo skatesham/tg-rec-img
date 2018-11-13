@@ -15,8 +15,11 @@ Para a execução necessita compilar um .war e disponibilizar no pasta webapp do
   5. /lib/mongo-java-driver-3.6.3.jar
   6. /lib/swtgraphics2d.jar
 
- ## Imagens do Sistema
+## Requisitos Funcionais
 
+![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/diagrama%20caso%20de%20uso%20com%20extends.png)
+
+## Imagens do Sistema
 
 ### Login
 ![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/login.png)
