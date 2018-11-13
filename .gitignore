@@ -20,7 +20,7 @@ build.xml
 .idea
 
 # WEB
-/web/static/vendor
+#/web/static/vendor
 
 # BlueJ files
 *.ctxt
