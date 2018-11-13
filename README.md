@@ -1,7 +1,7 @@
 # recimg
 Sistema de Reconhecimento de Padrão em Imagem
-<<<<<<< HEAD
-=======
+
+Esse servidor desenvolvido da forma mais clássica possui um algoritmo de reconhecimento de padrões em imagens com representação por região e utiliza de correlação para realizar o reconhecimento.
 
 ## Servidor apache-tomcat-8.5.20/
 
@@ -15,4 +15,4 @@ Sistema de Reconhecimento de Padrão em Imagem
   6. /lib/swtgraphics2d.jar
 
 ### Desenvolvido por Sham Vinicius Fiorin
->>>>>>> 4f16a02ccfe96b425f417a0c6f3a07701de95423
+
