@@ -88,5 +88,7 @@ Esse gráfico mostra os valores dos resultado  de correlação encontrados nos v
 ### Reconhecimento Sequencia de padrões
 ![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/red-seq-pad.png)
 
-### Desenvolvido por Sham Vinicius Fiorin
+##### Foi utilizado como referência:
+
+> GONZALEZ, Rafael C. ..; WOODS, Richard Eugene. Digital Image Processing. 3rd. ed. New Jersey.
 
