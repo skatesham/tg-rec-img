@@ -29,12 +29,17 @@ mongorestore -d recimg mongodb/recimg
 
 ## Dependencias
 
-  1. /lib/commons-math3-3.6.1.jar
-  2. /lib/jcommon-1.0.23.jar
-  3. /lib/jfreechart.jar
-  4. /lib/jfreechart-1.0.19.jar
-  5. /lib/mongo-java-driver-3.6.3.jar
-  6. /lib/swtgraphics2d.jar
+Essas devem estár na ṕasta /lib e estarem ativar no projeto na execução.
+
+  1. [lib/commons-math3-3.6.1.jar](http://commons.apache.org/proper/commons-math/download_math.cgi)
+  2. [lib/mongo-java-driver-3.6.3.jar](https://jar-download.com/?search_box=mongo-java-driver-3.6.3)
+  3. [JFreeChart](https://sourceforge.net/projects/jfreechart/files/3.%20JCommon/)
+      - lib/jfreechart.jar
+      - lib/jfreechart-1.0.19.jar
+      - lib/jcommon-1.0.23.jar 
+      - lib/swtgraphics2d.jar
+     
+Ou essas podem ser adicionadas ao Maven ou Gradle para facilitar o processo.
 
 ## Abrir Servidor
 
