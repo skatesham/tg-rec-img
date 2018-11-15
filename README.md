@@ -70,7 +70,8 @@ Essa área irá explicar melhor a arquitetura utilizada
 ## Gŕafico de Análise de resultado de reconhecimento
 Esse gráfico mostra os valores dos resultado  de correlação encontrados nos valores possíveis de encaixe das imagens acima. Esse valores vão de -100 a 100, que representam correlação -1 a 1. Dessa forma, é possivel analisar o resultado de cada número em dado local da imagem variando nos valores da lagura (X) do maior resultado encontrado para aquele padrão.
 
-![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/REAL%20Grafico%20Delta%20X.png)
+<!--![alt text](https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/REAL%20Grafico%20Delta%20X.png)-->
+<img src="https://raw.githubusercontent.com/skatesham/tg-rec-img/master/web/static/img/readme/REAL%20Grafico%20Delta%20X.png" width="100%" height="auto">
 
 ## Requisitos Funcionais
 
