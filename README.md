@@ -41,7 +41,7 @@ Essas devem estár na ṕasta /lib e estarem ativar no projeto na execução.
      
 Ou essas podem ser adicionadas ao Maven ou Gradle para facilitar o processo.
 
-## Abrir Servidor
+## Iniciar um cliente
 
 Para abrir página com o servidor (após o Tomcat, MongoDB e com as dependencias necessárias. Esses configurado e executando), execute o comando (Linux Dist):
 ```
